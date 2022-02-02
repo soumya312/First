@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "1379cdd2-77b1-47ea-a9bf-5f576cea648c",
+		"name": "Third",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://34.149.209.139.nip.io/swagger-petstore/user/logout",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://34.149.209.139.nip.io/swagger-petstore/user/logout",
+					"protocol": "https",
+					"host": [
+						"34",
+						"149",
+						"209",
+						"139",
+						"nip",
+						"io"
+					],
+					"path": [
+						"swagger-petstore",
+						"user",
+						"logout"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://34.149.209.139.nip.io/swagger-petstore/user/login",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://34.149.209.139.nip.io/swagger-petstore/user/login",
+					"protocol": "https",
+					"host": [
+						"34",
+						"149",
+						"209",
+						"139",
+						"nip",
+						"io"
+					],
+					"path": [
+						"swagger-petstore",
+						"user",
+						"login"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
