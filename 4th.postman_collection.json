@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "20562c7c-2f7c-4324-810d-e95e2e8739ef",
+		"name": "4th",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://34.149.209.139.nip.io/swagger-petstore/store/inventory",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://34.149.209.139.nip.io/swagger-petstore/store/inventory",
+					"protocol": "https",
+					"host": [
+						"34",
+						"149",
+						"209",
+						"139",
+						"nip",
+						"io"
+					],
+					"path": [
+						"swagger-petstore",
+						"store",
+						"inventory"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
