@@ -1,0 +1,83 @@
+{
+	"info": {
+		"_postman_id": "dbf21a32-70ba-4b15-acb1-54dcfd32fc6b",
+		"name": "Second",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://34.149.209.139.nip.io/hello-world",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://34.149.209.139.nip.io/hello-world",
+					"protocol": "https",
+					"host": [
+						"34",
+						"149",
+						"209",
+						"139",
+						"nip",
+						"io"
+					],
+					"path": [
+						"hello-world"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://34.149.209.139.nip.io/swagger-petstore/store/order/2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://34.149.209.139.nip.io/swagger-petstore/store/order/2",
+					"protocol": "https",
+					"host": [
+						"34",
+						"149",
+						"209",
+						"139",
+						"nip",
+						"io"
+					],
+					"path": [
+						"swagger-petstore",
+						"store",
+						"order",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://34.149.209.139.nip.io/swagger-petstore/pet/2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://34.149.209.139.nip.io/swagger-petstore/pet/2",
+					"protocol": "https",
+					"host": [
+						"34",
+						"149",
+						"209",
+						"139",
+						"nip",
+						"io"
+					],
+					"path": [
+						"swagger-petstore",
+						"pet",
+						"2"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
